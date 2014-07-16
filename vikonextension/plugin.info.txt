@@ -1,0 +1,7 @@
+base   vikonextension
+author Kovács Vince
+email  vincekovacs@hotmail.com
+date   2014-07-06
+name   Extension Manager for ViKon Bootstrap 3.2 template
+desc   Allows managing and installing plugins and templates
+url    https://www.dokuwiki.org/plugin:vikonextension
